@@ -1,0 +1,26 @@
+{
+  
+  "name": "insomnia-plugin-gmfacode",
+  "version": "1.0.0",
+  "main": "mfacode.js",
+
+  "author": {
+    "name": "Yong Que",
+    "email": "queyong@gmail.com"
+  },
+  "insomnia": {
+    "name": "gmfacode",
+    "description": "get google mfa code"
+  },
+  "dependencies": {
+   "speakeasy":"2.0.0"
+  },
+   "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "authtoken",
+	"mfa",
+    "generator"
+  ]
+}
